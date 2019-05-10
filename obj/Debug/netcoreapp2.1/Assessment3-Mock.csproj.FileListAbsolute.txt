@@ -1,0 +1,11 @@
+/Users/Steve/Projects/Assessment3-Mock/bin/Debug/netcoreapp2.1/Assessment3-Mock.deps.json
+/Users/Steve/Projects/Assessment3-Mock/bin/Debug/netcoreapp2.1/Assessment3-Mock.runtimeconfig.json
+/Users/Steve/Projects/Assessment3-Mock/bin/Debug/netcoreapp2.1/Assessment3-Mock.runtimeconfig.dev.json
+/Users/Steve/Projects/Assessment3-Mock/bin/Debug/netcoreapp2.1/Assessment3-Mock.dll
+/Users/Steve/Projects/Assessment3-Mock/bin/Debug/netcoreapp2.1/Assessment3-Mock.pdb
+/Users/Steve/Projects/Assessment3-Mock/obj/Debug/netcoreapp2.1/Assessment3-Mock.csprojAssemblyReference.cache
+/Users/Steve/Projects/Assessment3-Mock/obj/Debug/netcoreapp2.1/Assessment3-Mock.csproj.CoreCompileInputs.cache
+/Users/Steve/Projects/Assessment3-Mock/obj/Debug/netcoreapp2.1/Assessment3-Mock.AssemblyInfoInputs.cache
+/Users/Steve/Projects/Assessment3-Mock/obj/Debug/netcoreapp2.1/Assessment3-Mock.AssemblyInfo.cs
+/Users/Steve/Projects/Assessment3-Mock/obj/Debug/netcoreapp2.1/Assessment3-Mock.dll
+/Users/Steve/Projects/Assessment3-Mock/obj/Debug/netcoreapp2.1/Assessment3-Mock.pdb
